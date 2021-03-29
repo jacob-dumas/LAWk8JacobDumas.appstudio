@@ -20,3 +20,7 @@ btnExercises.onclick=function(){
 else 
     lblExercises.text = "You did not pick the two core exercises. "
 }
+
+btnChangeForm.onclick=function(){
+  ChangeForm(mobileNav)
+}
